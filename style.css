@@ -26,7 +26,7 @@
 body{
 	margin:0;
 	padding:0;
-    background:#FFF;
+    background:#000023;
     overflow-x:hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -37,7 +37,7 @@ a{
 a,button{transition: all .3s ease-in-out;outline: none!important;} /* Prevent ugly blue glow on chrome and safari */
 a:hover{text-decoration: none; cursor:pointer;color: inherit;}
 
-#page-loading-polydoms-notifaction{position: fixed;top: 0;bottom: 0;width: 100%;z-index:100000;background:#000026; url("img/pageload-spinner.gif") no-repeat center center;}
+#page-loading-polydoms-notifaction{position: fixed;top: 0;bottom: 0;width: 100%;z-index:100000;background:#000023; url("img/pageload-spinner.gif") no-repeat center center;}
 
 /*-----------------------------------------------------------------------------------
 	
