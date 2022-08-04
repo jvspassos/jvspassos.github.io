@@ -1068,7 +1068,7 @@ a[data-lightbox]{
 	text-align: center;
 }
 a[data-lightbox]:hover::before{
-	content:"+";
+	content:"►";
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
 	font-size:32px;
 	width:50px;
