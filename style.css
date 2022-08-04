@@ -267,7 +267,7 @@ div#preloader.fluidview {
 /* Light theme */
 
 .d-polydom .panel,.l-polydom{
-	color:#000032;
+	color:#FFFFFF;
 }
 .d-polydom .panel button:hover,.l-polydom button:hover{
 	color:rgba(0,0,0,.7);
@@ -279,7 +279,7 @@ div#preloader.fluidview {
 	border-color:rgba(0,0,0,.1);
 }
 .d-polydom .panel .a-btn,.l-polydom .a-btn,.l-polydom .navbar a,.l-polydom .navbar-brand,.l-polydom a .icon-sm, .l-polydom a .icon-md, .l-polydom a .icon-lg, .l-polydom a .icon-xl, .l-polydom h1 a, .l-polydom h2 a, .l-polydom h3 a, .l-polydom h4 a, .l-polydom h5 a, .l-polydom h6 a, .l-polydom p a{
-	color:rgba(0,0,0,1);
+	color:#FFFFFF;
 }
 .d-polydom .panel .a-btn:hover,.l-polydom .a-btn:hover,.l-polydom .navbar a:hover, .l-polydom .navbar-brand:hover, .l-polydom a:hover .icon-sm, .l-polydom a:hover .icon-md, .l-polydom a:hover .icon-lg, .l-polydom a:hover .icon-xl, .l-polydom h1 a:hover, .l-polydom h2 a:hover, .l-polydom h3 a:hover, .l-polydom h4 a:hover, .l-polydom h5 a:hover, .l-polydom h6 a:hover, .l-polydom p a:hover{
 	color:#D45500;
