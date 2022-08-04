@@ -76,7 +76,7 @@ div#preloader.fluidview {
     background-image: url(img/loader.gif);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 50px 50px;
+    background-size: 500px 500px;
     margin: -100px 0 0 -100px;
 }
 
