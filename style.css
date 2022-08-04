@@ -1323,7 +1323,10 @@ p{
 /* Text colour styles */
 
 .tc-black{
-	color:#000000!important;
+	color:#000023!important;
+}
+.tc-orange{
+	color:#D45500!important;
 }
 .tc-outer-space{
 	color:#47454B!important;
