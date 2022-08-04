@@ -599,7 +599,7 @@ div#preloader.fluidview {
 	background:transparent!important;
 }
 .navbar-toggle .icon-bar{
-	background-color: rgba(1,1,1,.5);
+	background-color: #ffffff;
 	width: 26px;
 }
  /* Inverted navbar */
