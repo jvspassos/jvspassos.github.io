@@ -558,11 +558,11 @@ div#preloader.fluidview {
 	z-index:1;
 }
 .navbar-brand{
-	font-family: Montserrat Black;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
 	height:auto;
 	padding:3px 15px;
 	font-size:25px;
-	font-weight:900;
 	line-height:44px;
 }
 .navbar-brand img{
