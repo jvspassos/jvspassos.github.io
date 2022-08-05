@@ -840,6 +840,7 @@ nav .caret{
 	padding: 50px;
 }
 .sidebar-nav .nav-logo{
+	position: relative;
 	height: 50px;
 }
 .nav-invert .sidebar-nav{
